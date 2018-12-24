@@ -1,0 +1,14 @@
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\PingWebAPI.deps.json
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\PingWebAPI.runtimeconfig.json
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\PingWebAPI.runtimeconfig.dev.json
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\PingWebAPI.dll
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\PingWebAPI.pdb
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.csprojAssemblyReference.cache
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.RazorAssemblyInfo.cache
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.RazorAssemblyInfo.cs
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.AssemblyInfoInputs.cache
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.AssemblyInfo.cs
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.dll
+C:\Users\GS-1777\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\PingWebAPI.pdb
